@@ -23,3 +23,6 @@ _testmain.go
 *.test
 *.prof
 vendor
+
+# Jetbrains project folder
+.idea

@@ -3,7 +3,7 @@ package hmac256_test
 import (
 	"testing"
 
-	"go.zenithar.org/common/security/signature/hmac256"
+	"go-common/security/signature/hmac256"
 )
 
 func TestSign(t *testing.T) {

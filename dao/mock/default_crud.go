@@ -1,6 +1,6 @@
 package mock
 
-import "go.zenithar.org/common/dao/api"
+import "go-common/dao/api"
 
 // Default contains the basic implementation of the EntityCRUD interface
 type Default struct {

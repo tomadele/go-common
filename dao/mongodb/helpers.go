@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"go.zenithar.org/common/dao/api"
+	"go-common/dao/api"
 )
 
 // ConvertSortParameters to mongodb query string

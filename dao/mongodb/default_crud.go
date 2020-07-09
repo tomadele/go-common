@@ -1,7 +1,7 @@
 package mongodb
 
 import (
-	"go.zenithar.org/common/dao/api"
+	"go-common/dao/api"
 
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
