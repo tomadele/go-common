@@ -1,4 +1,4 @@
-module go-common
+module github.com/tomadele/go-common
 
 go 1.14
 
