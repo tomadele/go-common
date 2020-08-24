@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"go-common/dao/api"
+	"github.com/tomadele/go-common/dao/api"
 )
 
 // ConvertSortParameters to mongodb query string

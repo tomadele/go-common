@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"go-common/helpers/unique/snowflake"
-	"go-common/helpers/unique/uniuri"
-	"go-common/helpers/unique/uuid"
+	"github.com/tomadele/go-common/helpers/unique/snowflake"
+	"github.com/tomadele/go-common/helpers/unique/uniuri"
+	"github.com/tomadele/go-common/helpers/unique/uuid"
 )
 
 func TestGenerateID(t *testing.T) {

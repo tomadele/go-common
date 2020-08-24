@@ -1,7 +1,7 @@
 package mongodb
 
 import (
-	"go-common/dao/api"
+	"github.com/tomadele/go-common/dao/api"
 
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
